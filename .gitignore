@@ -2,3 +2,6 @@
 .vscode/
 
 **.pyc
+**.DS_Store
+
+/lab2/gym-results
